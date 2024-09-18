@@ -119,7 +119,7 @@ Fetches the latest currency exchange rates.
     ```json
     {
       "base_code": "USD",
-      "rates": {
+      "conversion_rates": {
         "EUR": 0.85,
         "GBP": 0.75,
         ...
